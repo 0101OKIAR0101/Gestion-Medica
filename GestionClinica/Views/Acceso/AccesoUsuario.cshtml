@@ -1,0 +1,29 @@
+﻿@model GestionClinica.Models.Usuarios
+
+@{
+    ViewBag.Title = "AccesoUsuario";
+}
+
+<h2>Acceso de Usuarios</h2>
+
+@using (Html.BeginForm())
+{
+
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.CorreoElectronico)
+        @Html.TextBoxFor(model => model.CorreoElectronico, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Clave)
+        @Html.TextBoxFor(model => model.Clave, new { @class = "form-control" })
+    </div>
+    <br />
+    <button type="submit" class="btn btn-warning">Acceder</button>
+    @Html.ActionLink("¿ Quieres Registrarte ? ", "Registro", "Registro")
+
+
+
+}

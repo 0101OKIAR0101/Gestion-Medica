@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GestionMedicaModelStoreContainer" CdmEntityContainer="GestionMedicaEntities">
+    <EntitySetMapping Name="Clinicas">
+      <EntityTypeMapping TypeName="GestionMedicaModel.Clinicas">
+        <MappingFragment StoreEntitySet="Clinicas">
+          <ScalarProperty Name="IdClinica" ColumnName="IdClinica" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+          <ScalarProperty Name="Ciudad" ColumnName="Ciudad" />
+          <ScalarProperty Name="Comuna" ColumnName="Comuna" />
+          <ScalarProperty Name="Fechadehora" ColumnName="Fechadehora" />
+          <ScalarProperty Name="Hora" ColumnName="Hora" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="GestionMedicaModel.Roles">
+        <MappingFragment StoreEntitySet="Roles">
+          <ScalarProperty Name="IdRol" ColumnName="IdRol" />
+          <ScalarProperty Name="NombreRol" ColumnName="NombreRol" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Usuarios">
+      <EntityTypeMapping TypeName="GestionMedicaModel.Usuarios">
+        <MappingFragment StoreEntitySet="Usuarios">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="NombreUsuario" ColumnName="NombreUsuario" />
+          <ScalarProperty Name="CorreoElectronico" ColumnName="CorreoElectronico" />
+          <ScalarProperty Name="Clave" ColumnName="Clave" />
+          <ScalarProperty Name="ConfirmacionClave" ColumnName="ConfirmacionClave" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdRol" ColumnName="IdRol" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UsuariosClinicas">
+      <EntityTypeMapping TypeName="GestionMedicaModel.UsuariosClinicas">
+        <MappingFragment StoreEntitySet="UsuariosClinicas">
+          <ScalarProperty Name="IdUsuarioClinicas" ColumnName="IdUsuarioClinicas" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="IdCine" ColumnName="IdCine" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

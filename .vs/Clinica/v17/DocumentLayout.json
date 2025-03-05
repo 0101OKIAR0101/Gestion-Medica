@@ -1,0 +1,395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|c:\\users\\el ava de oro\\desktop\\gestion medica\\gestionclinica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|solutionrelative:gestionclinica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|c:\\users\\el ava de oro\\desktop\\gestion medica\\gestionclinica\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|solutionrelative:gestionclinica\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|c:\\users\\el ava de oro\\desktop\\gestion medica\\gestionclinica\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|solutionrelative:gestionclinica\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|c:\\users\\el ava de oro\\desktop\\gestion medica\\gestionclinica\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|solutionrelative:gestionclinica\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|c:\\users\\el ava de oro\\desktop\\gestion medica\\gestionclinica\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|solutionrelative:gestionclinica\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|c:\\users\\el ava de oro\\desktop\\gestion medica\\gestionclinica\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|solutionrelative:gestionclinica\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|c:\\users\\el ava de oro\\desktop\\gestion medica\\gestionclinica\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|solutionrelative:gestionclinica\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|c:\\users\\el ava de oro\\desktop\\gestion medica\\gestionclinica\\controllers\\gestioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|solutionrelative:gestionclinica\\controllers\\gestioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|c:\\users\\el ava de oro\\desktop\\gestion medica\\gestionclinica\\controllers\\clinicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|solutionrelative:gestionclinica\\controllers\\clinicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|c:\\users\\el ava de oro\\desktop\\gestion medica\\gestionclinica\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|solutionrelative:gestionclinica\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|c:\\users\\el ava de oro\\desktop\\gestion medica\\gestionclinica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|solutionrelative:gestionclinica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|c:\\users\\el ava de oro\\desktop\\gestion medica\\gestionclinica\\views\\clinica\\listaclinicas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|solutionrelative:gestionclinica\\views\\clinica\\listaclinicas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|c:\\users\\el ava de oro\\desktop\\gestion medica\\gestionclinica\\views\\clinica\\listaclinicas2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|solutionrelative:gestionclinica\\views\\clinica\\listaclinicas2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|c:\\users\\el ava de oro\\desktop\\gestion medica\\gestionclinica\\views\\clinica\\detalleclinica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|solutionrelative:gestionclinica\\views\\clinica\\detalleclinica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|c:\\users\\el ava de oro\\desktop\\gestion medica\\gestionclinica\\views\\gestion\\gestionadministrador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|solutionrelative:gestionclinica\\views\\gestion\\gestionadministrador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|c:\\users\\el ava de oro\\desktop\\gestion medica\\gestionclinica\\views\\clinica\\crearclinica2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|solutionrelative:gestionclinica\\views\\clinica\\crearclinica2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|c:\\users\\el ava de oro\\desktop\\gestion medica\\gestionclinica\\views\\clinica\\detalleclinica2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|solutionrelative:gestionclinica\\views\\clinica\\detalleclinica2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|c:\\users\\el ava de oro\\desktop\\gestion medica\\gestionclinica\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|solutionrelative:gestionclinica\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|c:\\users\\el ava de oro\\desktop\\gestion medica\\gestionclinica\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|solutionrelative:gestionclinica\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|c:\\users\\el ava de oro\\desktop\\gestion medica\\gestionclinica\\views\\acceso\\accesousuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|solutionrelative:gestionclinica\\views\\acceso\\accesousuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|c:\\users\\el ava de oro\\desktop\\gestion medica\\gestionclinica\\models\\gestionmedica.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{9FE3C256-66B2-423E-B271-7CEA732D714B}|GestionClinica\\GestionClinica.csproj|solutionrelative:gestionclinica\\models\\gestionmedica.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "favicon.ico -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - Icon [16x16, 32 bits, BMP]",
+              "DocumentMoniker": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\favicon.ico",
+              "RelativeDocumentMoniker": "GestionClinica\\favicon.ico",
+              "ToolTip": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\favicon.ico -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - Icon [16x16, 32 bits, BMP]",
+              "RelativeToolTip": "GestionClinica\\favicon.ico -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - Icon [16x16, 32 bits, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-03-05T03:38:03.694Z",
+              "EditorCaption": " -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - Icon [16x16, 32 bits, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Global.asax.cs",
+              "RelativeDocumentMoniker": "GestionClinica\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Global.asax.cs",
+              "RelativeToolTip": "GestionClinica\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T03:37:51.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\packages.config",
+              "RelativeDocumentMoniker": "GestionClinica\\packages.config",
+              "ToolTip": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\packages.config",
+              "RelativeToolTip": "GestionClinica\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-05T03:37:45.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Web.config",
+              "RelativeDocumentMoniker": "GestionClinica\\Web.config",
+              "ToolTip": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Web.config",
+              "RelativeToolTip": "GestionClinica\\Web.config",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-05T03:36:07.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Web.config",
+              "RelativeDocumentMoniker": "GestionClinica\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Web.config",
+              "RelativeToolTip": "GestionClinica\\Views\\Web.config",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-05T03:35:12.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GestionClinica\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "GestionClinica\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:35:09.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClinicaController.cs",
+              "DocumentMoniker": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Controllers\\ClinicaController.cs",
+              "RelativeDocumentMoniker": "GestionClinica\\Controllers\\ClinicaController.cs",
+              "ToolTip": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Controllers\\ClinicaController.cs",
+              "RelativeToolTip": "GestionClinica\\Controllers\\ClinicaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T03:33:02.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GestionController.cs",
+              "DocumentMoniker": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Controllers\\GestionController.cs",
+              "RelativeDocumentMoniker": "GestionClinica\\Controllers\\GestionController.cs",
+              "ToolTip": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Controllers\\GestionController.cs",
+              "RelativeToolTip": "GestionClinica\\Controllers\\GestionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T03:32:56.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegistroController.cs",
+              "DocumentMoniker": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Controllers\\RegistroController.cs",
+              "RelativeDocumentMoniker": "GestionClinica\\Controllers\\RegistroController.cs",
+              "ToolTip": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Controllers\\RegistroController.cs",
+              "RelativeToolTip": "GestionClinica\\Controllers\\RegistroController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T03:32:23.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GestionClinica\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GestionClinica\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T03:32:04.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListaClinicas2.cshtml",
+              "DocumentMoniker": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Clinica\\ListaClinicas2.cshtml",
+              "RelativeDocumentMoniker": "GestionClinica\\Views\\Clinica\\ListaClinicas2.cshtml",
+              "ToolTip": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Clinica\\ListaClinicas2.cshtml",
+              "RelativeToolTip": "GestionClinica\\Views\\Clinica\\ListaClinicas2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:29:38.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListaClinicas.cshtml",
+              "DocumentMoniker": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Clinica\\ListaClinicas.cshtml",
+              "RelativeDocumentMoniker": "GestionClinica\\Views\\Clinica\\ListaClinicas.cshtml",
+              "ToolTip": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Clinica\\ListaClinicas.cshtml",
+              "RelativeToolTip": "GestionClinica\\Views\\Clinica\\ListaClinicas.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:29:29.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GestionAdministrador.cshtml",
+              "DocumentMoniker": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Gestion\\GestionAdministrador.cshtml",
+              "RelativeDocumentMoniker": "GestionClinica\\Views\\Gestion\\GestionAdministrador.cshtml",
+              "ToolTip": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Gestion\\GestionAdministrador.cshtml",
+              "RelativeToolTip": "GestionClinica\\Views\\Gestion\\GestionAdministrador.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:28:07.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CrearClinica2.cshtml",
+              "DocumentMoniker": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Clinica\\CrearClinica2.cshtml",
+              "RelativeDocumentMoniker": "GestionClinica\\Views\\Clinica\\CrearClinica2.cshtml",
+              "ToolTip": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Clinica\\CrearClinica2.cshtml",
+              "RelativeToolTip": "GestionClinica\\Views\\Clinica\\CrearClinica2.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:27:31.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DetalleClinica.cshtml",
+              "DocumentMoniker": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Clinica\\DetalleClinica.cshtml",
+              "RelativeDocumentMoniker": "GestionClinica\\Views\\Clinica\\DetalleClinica.cshtml",
+              "ToolTip": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Clinica\\DetalleClinica.cshtml",
+              "RelativeToolTip": "GestionClinica\\Views\\Clinica\\DetalleClinica.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:27:09.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DetalleClinica2.cshtml",
+              "DocumentMoniker": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Clinica\\DetalleClinica2.cshtml",
+              "RelativeDocumentMoniker": "GestionClinica\\Views\\Clinica\\DetalleClinica2.cshtml",
+              "ToolTip": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Clinica\\DetalleClinica2.cshtml",
+              "RelativeToolTip": "GestionClinica\\Views\\Clinica\\DetalleClinica2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:27:05.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "GestionClinica\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "GestionClinica\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:23:49.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "GestionClinica\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "GestionClinica\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:23:37.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionClinica\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GestionClinica\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:23:08.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccesoUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Acceso\\AccesoUsuario.cshtml",
+              "RelativeDocumentMoniker": "GestionClinica\\Views\\Acceso\\AccesoUsuario.cshtml",
+              "ToolTip": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Views\\Acceso\\AccesoUsuario.cshtml",
+              "RelativeToolTip": "GestionClinica\\Views\\Acceso\\AccesoUsuario.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:20:28.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GestionMedica.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Models\\GestionMedica.edmx",
+              "RelativeDocumentMoniker": "GestionClinica\\Models\\GestionMedica.edmx",
+              "ToolTip": "C:\\Users\\El ava de oro\\Desktop\\Gestion Medica\\GestionClinica\\Models\\GestionMedica.edmx [Diagram1]",
+              "RelativeToolTip": "GestionClinica\\Models\\GestionMedica.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-03-05T03:19:21.354Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

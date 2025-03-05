@@ -1,0 +1,69 @@
+﻿@model IEnumerable<GestionClinica.Models.Clinicas>
+
+@{
+    ViewBag.Title = "Lista Clinicas";
+}
+
+<h2>Lista de Horas</h2>
+
+<p>
+    @Html.ActionLink("Crear Hora", "CrearClinica", new { @class = "btn btn-warning" })
+</p>
+<table class="table">
+    <tr class="bg-primary text-white">
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Direccion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ciudad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Comuna)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fechadehora)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Hora)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Activo)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Direccion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ciudad)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Comuna)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fechadehora)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Hora)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Activo)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "EditarClinica", new { id = item.IdClinica }, new { @class = "btn btn-warning" })
+            @Html.ActionLink("Detalle", "DetalleClinica", new { id=item.IdClinica }, new { @class = "btn btn-primary" })
+            @Html.ActionLink("Borrar", "BorrarClinica", new { id=item.IdClinica }, new { @class = "btn btn-danger" })
+        </td>
+    </tr>
+}
+
+</table>

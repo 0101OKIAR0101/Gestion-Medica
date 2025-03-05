@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="GestionMedicaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Clinicas">
+          <Key>
+            <PropertyRef Name="IdClinica" />
+          </Key>
+          <Property Name="IdClinica" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Nombre" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="Direccion" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="Ciudad" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="Comuna" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="Fechadehora" Type="date" Nullable="false" />
+          <Property Name="Hora" Type="time" Precision="7" Nullable="false" />
+          <Property Name="Activo" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Roles">
+          <Key>
+            <PropertyRef Name="IdRol" />
+          </Key>
+          <Property Name="IdRol" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="NombreRol" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Usuarios">
+          <Key>
+            <PropertyRef Name="UserId" />
+          </Key>
+          <Property Name="UserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="NombreUsuario" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="CorreoElectronico" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="Clave" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="ConfirmacionClave" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="Activo" Type="bit" Nullable="false" />
+          <Property Name="IdRol" Type="int" Nullable="false" />
+          <Property Name="Rut" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="UsuariosClinicas">
+          <Key>
+            <PropertyRef Name="IdUsuarioClinicas" />
+          </Key>
+          <Property Name="IdUsuarioClinicas" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="UserId" Type="int" Nullable="false" />
+          <Property Name="IdCine" Type="int" Nullable="false" />
+        </EntityType>
+        <Association Name="FK__Usuarios__IdRol__4BAC3F29">
+          <End Role="Roles" Type="Self.Roles" Multiplicity="1" />
+          <End Role="Usuarios" Type="Self.Usuarios" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Roles">
+              <PropertyRef Name="IdRol" />
+            </Principal>
+            <Dependent Role="Usuarios">
+              <PropertyRef Name="IdRol" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__UsuariosC__IdCin__5165187F">
+          <End Role="Clinicas" Type="Self.Clinicas" Multiplicity="1" />
+          <End Role="UsuariosClinicas" Type="Self.UsuariosClinicas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Clinicas">
+              <PropertyRef Name="IdClinica" />
+            </Principal>
+            <Dependent Role="UsuariosClinicas">
+              <PropertyRef Name="IdCine" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__UsuariosC__UserI__5070F446">
+          <End Role="Usuarios" Type="Self.Usuarios" Multiplicity="1" />
+          <End Role="UsuariosClinicas" Type="Self.UsuariosClinicas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Usuarios">
+              <PropertyRef Name="UserId" />
+            </Principal>
+            <Dependent Role="UsuariosClinicas">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="GestionMedicaModelStoreContainer">
+          <EntitySet Name="Clinicas" EntityType="Self.Clinicas" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Roles" EntityType="Self.Roles" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Usuarios" EntityType="Self.Usuarios" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="UsuariosClinicas" EntityType="Self.UsuariosClinicas" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__Usuarios__IdRol__4BAC3F29" Association="Self.FK__Usuarios__IdRol__4BAC3F29">
+            <End Role="Roles" EntitySet="Roles" />
+            <End Role="Usuarios" EntitySet="Usuarios" />
+          </AssociationSet>
+          <AssociationSet Name="FK__UsuariosC__IdCin__5165187F" Association="Self.FK__UsuariosC__IdCin__5165187F">
+            <End Role="Clinicas" EntitySet="Clinicas" />
+            <End Role="UsuariosClinicas" EntitySet="UsuariosClinicas" />
+          </AssociationSet>
+          <AssociationSet Name="FK__UsuariosC__UserI__5070F446" Association="Self.FK__UsuariosC__UserI__5070F446">
+            <End Role="Usuarios" EntitySet="Usuarios" />
+            <End Role="UsuariosClinicas" EntitySet="UsuariosClinicas" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="GestionMedicaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Clinicas">
+          <Key>
+            <PropertyRef Name="IdClinica" />
+          </Key>
+          <Property Name="IdClinica" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Direccion" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Ciudad" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Comuna" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Fechadehora" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="Hora" Type="Time" Nullable="false" Precision="7" />
+          <Property Name="Activo" Type="Boolean" Nullable="false" />
+          <NavigationProperty Name="UsuariosClinicas" Relationship="Self.FK__UsuariosC__IdCin__5165187F" FromRole="Clinicas" ToRole="UsuariosClinicas" />
+        </EntityType>
+        <EntityType Name="Roles">
+          <Key>
+            <PropertyRef Name="IdRol" />
+          </Key>
+          <Property Name="IdRol" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="NombreRol" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Usuarios" Relationship="Self.FK__Usuarios__IdRol__4BAC3F29" FromRole="Roles" ToRole="Usuarios" />
+        </EntityType>
+        <EntityType Name="Usuarios">
+          <Key>
+            <PropertyRef Name="UserId" />
+          </Key>
+          <Property Name="UserId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="NombreUsuario" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CorreoElectronico" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Clave" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="ConfirmacionClave" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Activo" Type="Boolean" Nullable="false" />
+          <Property Name="IdRol" Type="Int32" Nullable="false" />
+          <Property Name="Rut" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Roles" Relationship="Self.FK__Usuarios__IdRol__4BAC3F29" FromRole="Usuarios" ToRole="Roles" />
+          <NavigationProperty Name="UsuariosClinicas" Relationship="Self.FK__UsuariosC__UserI__5070F446" FromRole="Usuarios" ToRole="UsuariosClinicas" />
+        </EntityType>
+        <EntityType Name="UsuariosClinicas">
+          <Key>
+            <PropertyRef Name="IdUsuarioClinicas" />
+          </Key>
+          <Property Name="IdUsuarioClinicas" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="UserId" Type="Int32" Nullable="false" />
+          <Property Name="IdCine" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Clinicas" Relationship="Self.FK__UsuariosC__IdCin__5165187F" FromRole="UsuariosClinicas" ToRole="Clinicas" />
+          <NavigationProperty Name="Usuarios" Relationship="Self.FK__UsuariosC__UserI__5070F446" FromRole="UsuariosClinicas" ToRole="Usuarios" />
+        </EntityType>
+        <Association Name="FK__UsuariosC__IdCin__5165187F">
+          <End Role="Clinicas" Type="Self.Clinicas" Multiplicity="1" />
+          <End Role="UsuariosClinicas" Type="Self.UsuariosClinicas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Clinicas">
+              <PropertyRef Name="IdClinica" />
+            </Principal>
+            <Dependent Role="UsuariosClinicas">
+              <PropertyRef Name="IdCine" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Usuarios__IdRol__4BAC3F29">
+          <End Role="Roles" Type="Self.Roles" Multiplicity="1" />
+          <End Role="Usuarios" Type="Self.Usuarios" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Roles">
+              <PropertyRef Name="IdRol" />
+            </Principal>
+            <Dependent Role="Usuarios">
+              <PropertyRef Name="IdRol" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__UsuariosC__UserI__5070F446">
+          <End Role="Usuarios" Type="Self.Usuarios" Multiplicity="1" />
+          <End Role="UsuariosClinicas" Type="Self.UsuariosClinicas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Usuarios">
+              <PropertyRef Name="UserId" />
+            </Principal>
+            <Dependent Role="UsuariosClinicas">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="GestionMedicaEntities2" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Clinicas" EntityType="Self.Clinicas" />
+          <EntitySet Name="Roles" EntityType="Self.Roles" />
+          <EntitySet Name="Usuarios" EntityType="Self.Usuarios" />
+          <EntitySet Name="UsuariosClinicas" EntityType="Self.UsuariosClinicas" />
+          <AssociationSet Name="FK__UsuariosC__IdCin__5165187F" Association="Self.FK__UsuariosC__IdCin__5165187F">
+            <End Role="Clinicas" EntitySet="Clinicas" />
+            <End Role="UsuariosClinicas" EntitySet="UsuariosClinicas" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Usuarios__IdRol__4BAC3F29" Association="Self.FK__Usuarios__IdRol__4BAC3F29">
+            <End Role="Roles" EntitySet="Roles" />
+            <End Role="Usuarios" EntitySet="Usuarios" />
+          </AssociationSet>
+          <AssociationSet Name="FK__UsuariosC__UserI__5070F446" Association="Self.FK__UsuariosC__UserI__5070F446">
+            <End Role="Usuarios" EntitySet="Usuarios" />
+            <End Role="UsuariosClinicas" EntitySet="UsuariosClinicas" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="GestionMedicaModelStoreContainer" CdmEntityContainer="GestionMedicaEntities2">
+          <EntitySetMapping Name="Clinicas">
+            <EntityTypeMapping TypeName="GestionMedicaModel.Clinicas">
+              <MappingFragment StoreEntitySet="Clinicas">
+                <ScalarProperty Name="IdClinica" ColumnName="IdClinica" />
+                <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+                <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+                <ScalarProperty Name="Ciudad" ColumnName="Ciudad" />
+                <ScalarProperty Name="Comuna" ColumnName="Comuna" />
+                <ScalarProperty Name="Fechadehora" ColumnName="Fechadehora" />
+                <ScalarProperty Name="Hora" ColumnName="Hora" />
+                <ScalarProperty Name="Activo" ColumnName="Activo" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Roles">
+            <EntityTypeMapping TypeName="GestionMedicaModel.Roles">
+              <MappingFragment StoreEntitySet="Roles">
+                <ScalarProperty Name="IdRol" ColumnName="IdRol" />
+                <ScalarProperty Name="NombreRol" ColumnName="NombreRol" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Usuarios">
+            <EntityTypeMapping TypeName="GestionMedicaModel.Usuarios">
+              <MappingFragment StoreEntitySet="Usuarios">
+                <ScalarProperty Name="UserId" ColumnName="UserId" />
+                <ScalarProperty Name="NombreUsuario" ColumnName="NombreUsuario" />
+                <ScalarProperty Name="CorreoElectronico" ColumnName="CorreoElectronico" />
+                <ScalarProperty Name="Clave" ColumnName="Clave" />
+                <ScalarProperty Name="ConfirmacionClave" ColumnName="ConfirmacionClave" />
+                <ScalarProperty Name="Activo" ColumnName="Activo" />
+                <ScalarProperty Name="IdRol" ColumnName="IdRol" />
+                <ScalarProperty Name="Rut" ColumnName="Rut" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="UsuariosClinicas">
+            <EntityTypeMapping TypeName="GestionMedicaModel.UsuariosClinicas">
+              <MappingFragment StoreEntitySet="UsuariosClinicas">
+                <ScalarProperty Name="IdUsuarioClinicas" ColumnName="IdUsuarioClinicas" />
+                <ScalarProperty Name="UserId" ColumnName="UserId" />
+                <ScalarProperty Name="IdCine" ColumnName="IdCine" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Ninguno" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

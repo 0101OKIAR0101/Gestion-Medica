@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GestionClinicaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Clinicas">
+    <Key>
+      <PropertyRef Name="IdClinica" />
+    </Key>
+    <Property Name="IdClinica" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DireccionClinica" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Comuna" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Ciudad" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="FechaHora" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="HorarioHora" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="Activo" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="UsuariosClinica" Relationship="Self.FK__UsuariosC__IdCli__3E52440B" FromRole="Clinicas" ToRole="UsuariosClinica" />
+  </EntityType>
+  <EntityType Name="Roles">
+    <Key>
+      <PropertyRef Name="IdRol" />
+    </Key>
+    <Property Name="IdRol" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreRol" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Usuarios" Relationship="Self.FK__Usuarios__IdRol__38996AB5" FromRole="Roles" ToRole="Usuarios" />
+  </EntityType>
+  <EntityType Name="Usuarios">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreUsuario" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Rut" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CorreoElectronico" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Clave" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ConfirmacionClave" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Activo" Type="Boolean" Nullable="false" />
+    <Property Name="IdRol" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Roles" Relationship="Self.FK__Usuarios__IdRol__38996AB5" FromRole="Usuarios" ToRole="Roles" />
+    <NavigationProperty Name="UsuariosClinica" Relationship="Self.FK__UsuariosC__UserI__3D5E1FD2" FromRole="Usuarios" ToRole="UsuariosClinica" />
+  </EntityType>
+  <EntityType Name="UsuariosClinica">
+    <Key>
+      <PropertyRef Name="IdUsuariosClinica" />
+    </Key>
+    <Property Name="IdUsuariosClinica" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="Int32" Nullable="false" />
+    <Property Name="IdClinica" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Clinicas" Relationship="Self.FK__UsuariosC__IdCli__3E52440B" FromRole="UsuariosClinica" ToRole="Clinicas" />
+    <NavigationProperty Name="Usuarios" Relationship="Self.FK__UsuariosC__UserI__3D5E1FD2" FromRole="UsuariosClinica" ToRole="Usuarios" />
+  </EntityType>
+  <Association Name="FK__UsuariosC__IdCli__3E52440B">
+    <End Role="Clinicas" Type="Self.Clinicas" Multiplicity="1" />
+    <End Role="UsuariosClinica" Type="Self.UsuariosClinica" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Clinicas">
+        <PropertyRef Name="IdClinica" />
+      </Principal>
+      <Dependent Role="UsuariosClinica">
+        <PropertyRef Name="IdClinica" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Usuarios__IdRol__38996AB5">
+    <End Role="Roles" Type="Self.Roles" Multiplicity="1" />
+    <End Role="Usuarios" Type="Self.Usuarios" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Roles">
+        <PropertyRef Name="IdRol" />
+      </Principal>
+      <Dependent Role="Usuarios">
+        <PropertyRef Name="IdRol" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__UsuariosC__UserI__3D5E1FD2">
+    <End Role="Usuarios" Type="Self.Usuarios" Multiplicity="1" />
+    <End Role="UsuariosClinica" Type="Self.UsuariosClinica" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuarios">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="UsuariosClinica">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="GestionClinicaEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Clinicas" EntityType="Self.Clinicas" />
+    <EntitySet Name="Roles" EntityType="Self.Roles" />
+    <EntitySet Name="Usuarios" EntityType="Self.Usuarios" />
+    <EntitySet Name="UsuariosClinica" EntityType="Self.UsuariosClinica" />
+    <AssociationSet Name="FK__UsuariosC__IdCli__3E52440B" Association="Self.FK__UsuariosC__IdCli__3E52440B">
+      <End Role="Clinicas" EntitySet="Clinicas" />
+      <End Role="UsuariosClinica" EntitySet="UsuariosClinica" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Usuarios__IdRol__38996AB5" Association="Self.FK__Usuarios__IdRol__38996AB5">
+      <End Role="Roles" EntitySet="Roles" />
+      <End Role="Usuarios" EntitySet="Usuarios" />
+    </AssociationSet>
+    <AssociationSet Name="FK__UsuariosC__UserI__3D5E1FD2" Association="Self.FK__UsuariosC__UserI__3D5E1FD2">
+      <End Role="Usuarios" EntitySet="Usuarios" />
+      <End Role="UsuariosClinica" EntitySet="UsuariosClinica" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,270 @@
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\GestionClinica.dll.config
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\GestionClinica.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\GestionClinica.pdb
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\csc.exe
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\csc.exe.config
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\csc.rsp
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\csi.exe
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\csi.exe.config
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\csi.rsp
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.AppContext.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.Console.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.IO.Compression.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.Net.Http.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.ValueTuple.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\vbc.exe
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\vbc.exe.config
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\vbc.rsp
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\VBCSCompiler.exe
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\Antlr3.Runtime.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\EntityFramework.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\EntityFramework.SqlServer.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\Newtonsoft.Json.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\System.Web.Helpers.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\System.Web.Mvc.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\System.Web.Optimization.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\System.Web.Razor.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\System.Web.WebPages.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\System.Web.WebPages.Razor.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\WebGrease.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\EntityFramework.xml
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\EntityFramework.SqlServer.xml
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\System.Web.Helpers.xml
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\System.Web.Mvc.xml
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\System.Web.Optimization.xml
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\System.Web.Razor.xml
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\System.Web.WebPages.xml
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\System.Web.WebPages.Razor.xml
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\Newtonsoft.Json.xml
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\Antlr3.Runtime.pdb
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\es\System.Web.Razor.resources.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\obj\Debug\GestionClinica.csproj.AssemblyReference.cache
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\obj\Debug\GestionClinica.csproj.CoreCompileInputs.cache
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\obj\Debug\GestionClinica.csproj.CopyComplete
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\obj\Debug\GestionClinica.dll
+C:\Users\Santo Tomas\source\repos\Clinica\GestionClinica\obj\Debug\GestionClinica.pdb
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\obj\Debug\GestionClinica.csproj.AssemblyReference.cache
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\obj\Debug\GestionClinica.csproj.CoreCompileInputs.cache
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\obj\Debug\GestionClinica.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\obj\Debug\GestionClinica.pdb
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\GestionClinica.dll.config
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\GestionClinica.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\GestionClinica.pdb
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\csc.exe
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\csc.exe.config
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\csc.rsp
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\csi.exe
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\csi.exe.config
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\csi.rsp
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.AppContext.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.Console.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.IO.Compression.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.Net.Http.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.Net.Sockets.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.ValueTuple.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.Xml.XPath.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\vbc.exe
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\vbc.exe.config
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\vbc.rsp
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\VBCSCompiler.exe
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\Antlr3.Runtime.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\EntityFramework.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\EntityFramework.SqlServer.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\Newtonsoft.Json.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\System.Web.Helpers.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\System.Web.Mvc.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\System.Web.Optimization.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\System.Web.Razor.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\System.Web.WebPages.Deployment.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\System.Web.WebPages.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\System.Web.WebPages.Razor.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\WebGrease.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\EntityFramework.xml
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\EntityFramework.SqlServer.xml
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\System.Web.Helpers.xml
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\System.Web.Mvc.xml
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\System.Web.Optimization.xml
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\System.Web.Razor.xml
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\System.Web.WebPages.xml
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\System.Web.WebPages.Deployment.xml
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\System.Web.WebPages.Razor.xml
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\Newtonsoft.Json.xml
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\Antlr3.Runtime.pdb
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\es\System.Web.Helpers.resources.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\es\System.Web.Mvc.resources.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\es\System.Web.Optimization.resources.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\es\System.Web.Razor.resources.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\es\System.Web.WebPages.resources.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\El ava de oro\Documents\programacion y varios\c#\Clinica\GestionClinica\obj\Debug\GestionC.EDC29D8C.Up2Date
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\GestionClinica.dll.config
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\GestionClinica.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\GestionClinica.pdb
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\csc.exe
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\csc.exe.config
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\csc.rsp
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\csi.exe
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\csi.exe.config
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\csi.rsp
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.AppContext.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.Console.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.IO.Compression.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.Net.Http.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.Net.Sockets.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.ValueTuple.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.Xml.XPath.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\vbc.exe
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\vbc.exe.config
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\vbc.rsp
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\VBCSCompiler.exe
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\Antlr3.Runtime.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\EntityFramework.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\EntityFramework.SqlServer.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\Newtonsoft.Json.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\System.Web.Helpers.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\System.Web.Mvc.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\System.Web.Optimization.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\System.Web.Razor.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\System.Web.WebPages.Deployment.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\System.Web.WebPages.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\System.Web.WebPages.Razor.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\WebGrease.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\EntityFramework.xml
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\EntityFramework.SqlServer.xml
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\System.Web.Helpers.xml
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\System.Web.Mvc.xml
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\System.Web.Optimization.xml
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\System.Web.Razor.xml
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\System.Web.WebPages.xml
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\System.Web.WebPages.Deployment.xml
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\System.Web.WebPages.Razor.xml
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\Newtonsoft.Json.xml
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\Antlr3.Runtime.pdb
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\es\System.Web.Helpers.resources.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\es\System.Web.Mvc.resources.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\es\System.Web.Optimization.resources.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\es\System.Web.Razor.resources.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\es\System.Web.WebPages.resources.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\obj\Debug\GestionClinica.csproj.AssemblyReference.cache
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\obj\Debug\GestionClinica.csproj.CoreCompileInputs.cache
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\obj\Debug\GestionC.EDC29D8C.Up2Date
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\obj\Debug\GestionClinica.dll
+C:\Users\El ava de oro\Desktop\Gestion Medica\GestionClinica\obj\Debug\GestionClinica.pdb

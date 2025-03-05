@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e91af33dc5954436b38c0ddf8f6fefd5" Name="Diagram1">
+        <EntityTypeShape EntityType="GestionMedicaModel.Clinicas" Width="1.5" PointX="3" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GestionMedicaModel.Roles" Width="1.5" PointX="0.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GestionMedicaModel.Usuarios" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="GestionMedicaModel.UsuariosClinicas" Width="1.5" PointX="5.25" PointY="1.5" IsExpanded="true" />
+        <AssociationConnector Association="GestionMedicaModel.FK__UsuariosC__IdCin__5165187F" ManuallyRouted="false" />
+        <AssociationConnector Association="GestionMedicaModel.FK__Usuarios__IdRol__4BAC3F29" ManuallyRouted="false" />
+        <AssociationConnector Association="GestionMedicaModel.FK__UsuariosC__UserI__5070F446" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
